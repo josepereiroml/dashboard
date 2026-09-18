@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+playwright
+pytrends
+pandas
+sqlalchemy
+streamlit
+plotly
+spotipy
+python-dotenv
+schedule
