@@ -1,0 +1,10 @@
+streamlit
+plotly
+pandas
+sqlalchemy==2.0.36
+requests
+beautifulsoup4
+playwright
+pytrends
+schedule
+python-dotenv
